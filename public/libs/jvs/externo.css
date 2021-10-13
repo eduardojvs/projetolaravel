@@ -1,0 +1,9 @@
+.has-externo {
+    width: 150px;
+}
+.has-externo input {
+    text-align: right;
+}
+.externo-group > :not(:first-child) {
+    margin-left: .5rem;
+}

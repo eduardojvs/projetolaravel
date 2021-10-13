@@ -1,0 +1,4 @@
+
+$(function() {
+    $(".knob").knob();
+});
